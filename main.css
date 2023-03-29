@@ -50,6 +50,7 @@ h3 {
   height: 20px;
   border-width: 0;
   border-radius: 10px;
+  cursor: pointer;
 }
 
 .show {
@@ -87,5 +88,6 @@ h3 {
     width: 100px;
     height: 40px;
     border-width: 0;
+    cursor: pointer;
   }
 }
