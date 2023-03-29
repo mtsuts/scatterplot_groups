@@ -33,11 +33,28 @@ function chart(data, params) {
     "High income",
   ];
 
+  const cScale = d3
+    .scaleOrdinal()
+    .domain(groups)
+    .range([
+      "rgba(50, 59, 235, 0.5)",
+      "rgba(226, 50, 235, 0.5)",
+      "rgba(235, 226, 47, 0.5)",
+      "rgba(137, 21, 232, 0.5)",
+      "rgba(235, 163, 47, 0.5)",
+    ]);
+
   container
-    .append("div")
-    .attr("class", "income-group")
+    .append("button")
+    .attr("class", "button-group")
+    .text("All income groups")
     .attr("width", width)
-    .append("text");
+    .attr("style", "box-shadow: 2px 2px 2px 2px rgba(184, 147, 147, 0.5)")
+    .on("click", function () {
+      drawCircles(data);
+    });
+
+  container.append("div").attr("class", "income-group").attr("width", width);
 
   const income = d3
     .select(".income-group")
@@ -45,12 +62,13 @@ function chart(data, params) {
     .data(groups)
     .join("button")
     .attr("class", (d) => d.split(" ")[0])
+    .attr("style", "box-shadow: 2px 2px 2px 2px rgba(184, 147, 147, 0.5)")
     .text((d) => d)
     .on("click", function (d) {
       drawCircles(data.filter((x) => x.group === d.target.innerText));
     });
 
-    console.log(data)
+  console.log(data);
 
   // create scales and axis
   const xScale = d3
@@ -131,17 +149,6 @@ function chart(data, params) {
     ])
     .range([2, 15, 30]);
 
-  const cScale = d3
-    .scaleOrdinal()
-    .domain(groups)
-    .range([
-      "rgba(50, 59, 235, 0.5)",
-      "rgba(226, 50, 235, 0.5)",
-      "rgba(235, 226, 47, 0.5)",
-      "rgba(137, 21, 232, 0.5)",
-      "rgba(235, 163, 47, 0.5)",
-    ]);
-
   // create circles function for scaterrplot
   function drawCircles(data) {
     const circle = chartgroup
@@ -164,7 +171,7 @@ function chart(data, params) {
 
     // tippy popup
     circle.each(function (d) {
-      if (this._tippy) this._tippy.destroy()
+      if (this._tippy) this._tippy.destroy();
       tippy(this, {
         content: `<div class=popup> 
         <h3> ${d.country} </h3>
