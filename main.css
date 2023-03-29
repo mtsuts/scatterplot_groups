@@ -1,0 +1,91 @@
+body {
+  height: 100vh;
+}
+
+.container {
+  max-width: 850px;
+  height: 90%;
+  margin-top: 20px;
+}
+
+.axis path {
+  stroke: #ddd !important;
+}
+
+.popup {
+  max-width: 200px;
+}
+
+.chart circle:focus {
+  outline: none;
+}
+
+.chart circle:hover {
+  cursor: pointer;
+}
+
+h3 {
+  background-color: white;
+  color: black;
+}
+
+.tippy-box {
+  border-radius: 15px;
+  background-color: #e08283;
+}
+
+.tick line {
+  stroke: "red" !important;
+}
+
+.income-group {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.income-group button {
+  font-size: 8px;
+  width: 100px;
+  height: 20px;
+  border-width: 0;
+  border-radius: 10px;
+}
+
+.show {
+  display: block;
+}
+
+.Low {
+  background-color: rgba(50, 59, 235, 0.5);
+}
+
+.Lower {
+  background-color: rgba(226, 50, 235, 0.5);
+}
+
+.No {
+  background-color: rgba(235, 226, 47, 0.5);
+}
+
+.Upper {
+  background-color: rgba(137, 21, 232, 0.5);
+}
+
+.High {
+  background-color: rgba(235, 163, 47, 0.5);
+}
+
+.heading {
+  margin-bottom: 2px;
+  font-weight: bold;
+}
+
+@media (min-width: 568px) {
+  .income-group button {
+    font-size: 12px;
+    width: 100px;
+    height: 40px;
+    border-width: 0;
+  }
+}

@@ -1,0 +1,165 @@
+Entity,Life expectancy,GDP ($),Income group
+Afghanistan,64.486,1934.56,Low income
+Albania,78.458,11104.17,Upper middle income
+Algeria,76.693,14228.03,Lower middle income
+Angola,60.782,7771.44,Lower middle income
+Argentina,76.52,18556.38,Upper middle income
+Armenia,74.945,11454.43,Upper middle income
+Australia,83.281,49830.8,High income
+Austria,81.434,42988.07,High income
+Azerbaijan,72.864,16628.06,Upper middle income
+Bahrain,77.163,39498.77,High income
+Bangladesh,72.32,4099.25,Lower middle income
+Barbados,79.081,11995.19,High income
+Belarus,74.59,18727.32,Upper middle income
+Belgium,81.468,39756.2,High income
+Benin,61.47,2220.18,Lower middle income
+Bolivia,71.239,6695.77,Lower middle income
+Bosnia and Herzegovina,77.262,10460.52,Upper middle income
+Botswana,69.275,15842.13,Upper middle income
+Brazil,75.672,14033.57,Upper middle income
+Bulgaria,74.928,18444.26,Upper middle income
+Burkina Faso,61.174,1589.62,Low income
+Burundi,61.247,651.36,Low income
+Cambodia,69.57,3628.56,Lower middle income
+Cameroon,58.921,2888.05,Lower middle income
+Canada,82.315,44868.74,High income
+Cape Verde,72.782,6831.22,Lower middle income
+Central African Republic,52.805,623.49,Low income
+Chad,53.977,2046.36,Low income
+Chile,80.042,22104.77,High income
+China,76.704,13101.71,Upper middle income
+Colombia,77.109,13545.05,Upper middle income
+Comoros,64.118,1724.42,Lower middle income
+Congo,64.29,5714.59,Lower middle income
+Costa Rica,80.095,14686.25,Upper middle income
+Cote d'Ivoire,57.422,3713.64,Lower middle income
+Croatia,78.342,22012.31,High income
+Cuba,78.726,8325.63,Upper middle income
+Cyprus,80.828,27184.42,High income
+Czechia,79.222,30748.51,High income
+Democratic Republic of Congo,60.368,859.38,Low income
+Denmark,80.784,46312.34,High income
+Djibouti,66.582,3295.68,Lower middle income
+Dominican Republic,73.892,15912.4,Upper middle income
+Ecuador,76.8,10638.83,Upper middle income
+Egypt,71.825,11957.21,Lower middle income
+El Salvador,73.096,8598.2,Lower middle income
+Equatorial Guinea,58.402,28528.95,Upper middle income
+Estonia,78.567,27408.66,High income
+Eswatini,59.401,8068.21,Lower middle income
+Ethiopia,66.24,1838.49,Low income
+Finland,81.736,38896.7,High income
+France,82.541,38515.92,High income
+Gabon,66.187,17613.56,Upper middle income
+Gambia,61.735,1882.24,Low income
+Georgia,73.6,11984.9,Upper middle income
+Germany,81.18,46177.62,High income
+Ghana,63.78,4267.07,Lower middle income
+Greece,82.072,23450.77,High income
+Guatemala,74.063,7402.11,Upper middle income
+Guinea,58.322,1606.47,Low income
+Guinea-Bissau,74.302,1501.41,Low income
+Haiti,63.66,1729.04,Lower middle income
+Honduras,75.088,5041.64,Lower middle income
+Hong Kong,84.687,50839.37,High income
+Hungary,76.701,25622.81,High income
+Iceland,82.855,43438.54,High income
+India,69.416,6806.5,Lower middle income
+Indonesia,71.509,11851.74,Lower middle income
+Iran,76.479,17011.3,Lower middle income
+Iraq,70.454,12835.81,Upper middle income
+Ireland,82.103,64684.3,High income
+Israel,82.819,32954.77,High income
+Italy,83.352,34364.17,High income
+Jamaica,74.368,7272.98,Upper middle income
+Japan,84.47,38673.81,High income
+Jordan,74.405,11506.34,Upper middle income
+Kazakhstan,73.236,25307.56,Upper middle income
+Kenya,66.342,3377.47,Lower middle income
+Kuwait,75.398,65520.74,High income
+Kyrgyzstan,71.321,5176.99,Lower middle income
+Laos,67.61,6450.91,Lower middle income
+Latvia,75.172,24312.68,High income
+Lebanon,78.875,12558.97,Upper middle income
+Lesotho,53.705,2731.47,Lower middle income
+Liberia,63.73,818.42,Low income
+Libya,72.724,15013.31,Upper middle income
+Lithuania,75.737,27370.55,High income
+Luxembourg,82.102,57427.5,High income
+Madagascar,66.681,1427.6,Low income
+Malawi,63.798,1116.64,Low income
+Malaysia,75.997,24842.36,Upper middle income
+Mali,58.893,1667.3,Low income
+Malta,82.376,32028.91,High income
+Mauritania,64.704,3457.52,Lower middle income
+Mauritius,74.863,20138.57,Upper middle income
+Mexico,74.992,16494.08,Upper middle income
+Moldova,71.808,6746.73,Upper middle income
+Mongolia,69.689,13382.54,Lower middle income
+Montenegro,76.77,19504.16,Upper middle income
+Morocco,76.453,8451.14,Lower middle income
+Mozambique,60.163,1132.77,Low income
+Myanmar,66.867,5838.22,Lower middle income
+Namibia,63.373,9043.12,Upper middle income
+Nepal,70.478,2727.42,Lower middle income
+Netherlands,82.143,47474.11,High income
+New Zealand,82.145,35336.14,High income
+Nicaragua,74.275,4952.48,Lower middle income
+Niger,62.024,964.66,Low income
+Nigeria,54.332,5237.66,Lower middle income
+North Korea,72.095,1596.35,Low income
+North Macedonia,75.688,13074.23,Upper middle income
+Norway,82.271,84580.14,High income
+Oman,77.633,36477.64,High income
+Pakistan,67.114,5510.4,Lower middle income
+Palestine,73.895,5207.76,No classification
+Panama,78.329,22637.15,Upper middle income
+Paraguay,74.131,9338.95,Upper middle income
+Peru,76.516,12310.08,Upper middle income
+Philippines,71.095,8139.14,Lower middle income
+Poland,78.544,27455.24,High income
+Portugal,81.857,27035.6,High income
+Puerto Rico,79.952,35076.29,High income
+Qatar,80.1,153764.16,High income
+Romania,75.924,20126.29,Upper middle income
+Russia,72.386,24668.91,Upper middle income
+Rwanda,68.7,1929.29,Low income
+Saint Lucia,76.057,10475.37,Upper middle income
+Sao Tome and Principe,70.17,3730.2,Lower middle income
+Saudi Arabia,74.998,50304.75,High income
+Senegal,67.665,2617.12,Lower middle income
+Serbia,75.849,14124.12,Upper middle income
+Seychelles,73.333,29531.06,High income
+Sierra Leone,54.309,1683.85,Low income
+Singapore,83.458,68402.35,High income
+Slovakia,77.388,27075.53,High income
+Slovenia,81.172,29244.92,High income
+South Korea,82.846,37927.61,High income
+Spain,83.433,31496.52,High income
+Sri Lanka,76.812,11662.91,Lower middle income
+Sudan,65.095,3379.6,Low income
+Sweden,82.654,45541.89,High income
+Switzerland,83.63,61372.73,High income
+Syria,71.779,3349.46,Low income
+Taiwan,80.283,44663.86,No classification
+Tajikistan,70.879,4440.38,Lower middle income
+Tanzania,65.015,2874.96,Lower middle income
+Thailand,76.931,16648.62,Upper middle income
+Togo,60.76,1451.36,Low income
+Trinidad and Tobago,73.38,28549.41,High income
+Tunisia,76.505,11353.89,Lower middle income
+Turkey,77.437,19270.22,Upper middle income
+Turkmenistan,68.073,26318.37,Upper middle income
+Uganda,62.973,2045.42,Low income
+Ukraine,71.953,9813.36,Lower middle income
+United Arab Emirates,77.814,76397.82,High income
+United Kingdom,81.236,38058.09,High income
+United States,80.583,55334.74,High income
+Uruguay,77.77,20185.84,High income
+Uzbekistan,71.573,11220.37,Lower middle income
+Venezuela,72.128,10709.95,No classification
+Vietnam,75.317,6814.14,Lower middle income
+Yemen,66.096,2284.89,Low income
+Zambia,63.51,3534.03,Lower middle income
+Zimbabwe,61.195,1611.41,Lower middle income
